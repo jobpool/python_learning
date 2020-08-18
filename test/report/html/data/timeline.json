@@ -1,0 +1,43 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "CN-FEILONGS-NP",
+    "children" : [ {
+      "name" : "3236-MainThread",
+      "children" : [ {
+        "name" : "test_demo",
+        "uid" : "700da2e8c625e834",
+        "parentUid" : "6c5a34b966072b055f73dde8ba9ec8cf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597584617495,
+          "stop" : 1597584617495,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6c5a34b966072b055f73dde8ba9ec8cf"
+    }, {
+      "name" : "15968-MainThread",
+      "children" : [ {
+        "name" : "test_demo",
+        "uid" : "66cc1c67641e9f65",
+        "parentUid" : "70b9f1d517a2d89b23ff517ad0e12338",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597586007524,
+          "stop" : 1597586007524,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "70b9f1d517a2d89b23ff517ad0e12338"
+    } ],
+    "uid" : "b9f82fd239e62bb36dabad1c2a280fab"
+  } ]
+}

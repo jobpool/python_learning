@@ -1,0 +1,48 @@
+{
+  "uid" : "700da2e8c625e834",
+  "name" : "test_demo",
+  "fullName" : "test01#test_demo",
+  "historyId" : "05d6422665c573536cc1c3fdfaa3bb5b",
+  "time" : {
+    "start" : 1597584617495,
+    "stop" : 1597584617495,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test01"
+  }, {
+    "name" : "host",
+    "value" : "CN-FEILONGS-NP"
+  }, {
+    "name" : "thread",
+    "value" : "3236-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "700da2e8c625e834.json",
+  "parameterValues" : [ ]
+}
