@@ -5,7 +5,7 @@
     "name" : "test01",
     "children" : [ {
       "name" : "test_demo",
-      "uid" : "66cc1c67641e9f65",
+      "uid" : "ce1561b5b6eebb85",
       "parentUid" : "77f96920ace9efa2c053b16882095c63",
       "status" : "passed",
       "time" : {
@@ -18,5 +18,22 @@
       "parameters" : [ ]
     } ],
     "uid" : "77f96920ace9efa2c053b16882095c63"
+  }, {
+    "name" : "baidu.test_searchpython",
+    "children" : [ {
+      "name" : "test_searchpython",
+      "uid" : "e3e72cfa5345c8a1",
+      "parentUid" : "c3c5da11e7de9b834bb3271151597fe3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599269486363,
+        "stop" : 1599269495595,
+        "duration" : 9232
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "baidu.test_searchpython"
   } ]
 }

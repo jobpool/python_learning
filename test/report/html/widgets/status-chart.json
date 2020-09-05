@@ -1,10 +1,20 @@
 [ {
-  "uid" : "66cc1c67641e9f65",
+  "uid" : "ce1561b5b6eebb85",
   "name" : "test_demo",
   "time" : {
     "start" : 1597586007524,
     "stop" : 1597586007524,
     "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3e72cfa5345c8a1",
+  "name" : "test_searchpython",
+  "time" : {
+    "start" : 1599269486363,
+    "stop" : 1599269495595,
+    "duration" : 9232
   },
   "status" : "passed",
   "severity" : "normal"

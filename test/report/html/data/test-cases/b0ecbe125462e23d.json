@@ -1,11 +1,11 @@
 {
-  "uid" : "66cc1c67641e9f65",
+  "uid" : "b0ecbe125462e23d",
   "name" : "test_demo",
   "fullName" : "test01#test_demo",
   "historyId" : "05d6422665c573536cc1c3fdfaa3bb5b",
   "time" : {
-    "start" : 1597586007524,
-    "stop" : 1597586007524,
+    "start" : 1597584617495,
+    "stop" : 1597584617495,
     "duration" : 0
   },
   "status" : "passed",
@@ -21,7 +21,7 @@
     "value" : "CN-FEILONGS-NP"
   }, {
     "name" : "thread",
-    "value" : "15968-MainThread"
+    "value" : "3236-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -37,22 +37,12 @@
   } ],
   "parameters" : [ ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ {
-      "uid" : "700da2e8c625e834",
-      "status" : "passed",
-      "time" : {
-        "start" : 1597584617495,
-        "stop" : 1597584617495,
-        "duration" : 0
-      }
-    } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "66cc1c67641e9f65.json",
+  "source" : "b0ecbe125462e23d.json",
   "parameterValues" : [ ]
 }
